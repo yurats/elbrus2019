@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<gpx xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxedw="http://www.gpxeditor.co.uk/xmlschemas/WaypointExtension/v1" xmlns:gpxedts="http://www.gpxeditor.co.uk/xmlschemas/TrackSegExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="GPXEditor" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+  <wpt lat="43.31132" lon="42.75175">
+    <name>СТАРТ</name>
+  </wpt>
+  <wpt lat="43.32146" lon="42.71347">
+    <name>НОЧЁВКА 19-20</name>
+  </wpt>
+  <wpt lat="43.32244" lon="42.71061">
+    <name>МОСТ СЫЛТРАНСУ</name>
+  </wpt>
+  <wpt lat="43.3277" lon="42.6746">
+    <name>НОЧЁВКА 20-21</name>
+  </wpt>
+  <wpt lat="43.33141" lon="42.66733">
+    <name>РУЧЕИ</name>
+  </wpt>
+  <wpt lat="43.33353" lon="42.66643">
+    <name>МЕСТО ДЛЯ ЛАГЕРЯ</name>
+  </wpt>
+  <wpt lat="43.36578" lon="42.65716">
+    <name>МОСТ КЫРТЫК</name>
+  </wpt>
+  <wpt lat="43.3357" lon="42.66508">
+    <name>ПЕРЕВАЛ СЫЛТРАН</name>
+  </wpt>
+  <wpt lat="43.36479" lon="42.64966">
+    <name>НОЧЁВКА 21-22</name>
+  </wpt>
+  <wpt lat="43.35167" lon="42.58374">
+    <name>НОЧЁВКИ</name>
+  </wpt>
+  <wpt lat="43.35887" lon="42.60329">
+    <name>БРОД 22.08</name>
+  </wpt>
+  <wpt lat="43.34936" lon="42.57603">
+    <name>НОЧЕВКА 22-23</name>
+  </wpt>
+  <wpt lat="43.35325" lon="42.56738">
+    <name>ПЛОЩАДКИ</name>
+  </wpt>
+  <wpt lat="43.35328" lon="42.56064">
+    <name>ДЖИКАУГЕНКЁЗ</name>
+  </wpt>
+  <wpt lat="43.35396" lon="42.55801">
+    <name>ПОД ПЕРЕВАЛОМ</name>
+  </wpt>
+  <wpt lat="43.36685" lon="42.5397">
+    <name>МОСТ</name>
+  </wpt>
+  <wpt lat="43.36684" lon="42.53969">
+    <name>ОБЕД23.08</name>
+  </wpt>
+  <wpt lat="43.38272" lon="42.54224">
+    <name>НОЧЁВКА23-24</name>
+  </wpt>
+  <wpt lat="43.39591" lon="42.53112">
+    <name>НОЧЁВКИ С ВОДОЙ</name>
+  </wpt>
+  <wpt lat="43.42993" lon="42.51453">
+    <name>НОЧЁВКА 24-25</name>
+  </wpt>
+  <wpt lat="43.43495" lon="42.5372">
+    <name>КАФЕ ДЖИЛЫ-СУ</name>
+  </wpt>
+  <wpt lat="43.43397" lon="42.5139">
+    <name>МОСТ КЫЗЫЛКОЛ</name>
+  </wpt>
+  <wpt lat="43.42827" lon="42.5081">
+    <name>МОСТ</name>
+  </wpt>
+  <wpt lat="43.4138" lon="42.43159">
+    <name>НОЧЁВКА25-26</name>
+  </wpt>
+  <wpt lat="43.41824" lon="42.44303">
+    <name>СУХОЕ РУСЛО</name>
+  </wpt>
+  <wpt lat="43.4131" lon="42.43071">
+    <name>БРОД</name>
+  </wpt>
+  <wpt lat="43.41405" lon="42.43089">
+    <name>ПЛОЩАДКИ</name>
+  </wpt>
+  <wpt lat="43.39516" lon="42.41135">
+    <name>ОБЕД 26.08</name>
+  </wpt>
+  <wpt lat="43.40766" lon="42.34866">
+    <name>НОЧЁВКА26-27</name>
+  </wpt>
+  <wpt lat="43.3708" lon="42.34918">
+    <name>ОБЕД 27.08</name>
+  </wpt>
+  <wpt lat="43.36696" lon="42.36017">
+    <name>НОЧЁВКА27-28</name>
+  </wpt>
+  <wpt lat="43.40598" lon="42.34945">
+    <name>МОСТ БИТЮКТЕБЕ</name>
+  </wpt>
+  <wpt lat="43.36636" lon="42.35152">
+    <name>ПЕРЕВАЛ КОЛЬЦЕВОЙ</name>
+  </wpt>
+  <wpt lat="43.36547" lon="42.36695">
+    <name>ПЕРЕВАЛ ЛЁТЧИКА МАШКОВА</name>
+  </wpt>
+  <wpt lat="43.35149" lon="42.35948">
+    <name>ОБЕД 28.08</name>
+  </wpt>
+  <wpt lat="43.35169" lon="42.34959">
+    <name>НОЧЁВКА28-29</name>
+  </wpt>
+  <wpt lat="43.35168" lon="42.34956">
+    <name>ПОВОРОТ</name>
+  </wpt>
+  <wpt lat="43.42231" lon="42.2024">
+    <name>НОЧЁВКА 29-30</name>
+  </wpt>
+  <wpt lat="43.42508" lon="42.15653">
+    <name>ФИНИШ 30.08</name>
+  </wpt>
+  <wpt lat="43.42173" lon="42.20253">
+    <name>МОСТА НЕ БЫЛО</name>
+  </wpt>
+</gpx>
