@@ -48,8 +48,14 @@
 	<wpt lat="43.298385" lon="42.390060">
 		<name>МН-14.08</name>
 	</wpt>
+	<wpt lat="43.296650" lon="42.400333">
+		<name>PER HOTYUTAU (3546)</name>
+	</wpt>
 	<wpt lat="43.277330" lon="42.426796">
 		<name>МН-15.08</name>
+	</wpt>
+	<wpt lat="43.276466" lon="42.428928">
+		<name>PER ECHO VOINY (3349)</name>
 	</wpt>
 	<wpt lat="43.335916" lon="42.335300">
 		<name>015</name>
