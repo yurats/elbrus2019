@@ -7,7 +7,7 @@
 		<name>MN-05.08 (3200)</name>
 	</wpt>
 	<wpt lat="43.353283" lon="42.560636">
-		<name>PER-DZHIKAUGENKEZ (3552)</name>
+		<name>PER DZHIKAUGENKEZ (3552)</name>
 	</wpt>
 	<wpt lat="43.410223" lon="42.531853">
 		<name>МН-06.08</name>
@@ -18,14 +18,23 @@
 	<wpt lat="43.406482" lon="42.421818">
 		<name>МН-08.08</name>
 	</wpt>
+	<wpt lat="43.392050" lon="42.403283">
+		<name>PER BALK-BASHI (3691)</name>
+	</wpt>
 	<wpt lat="43.401992" lon="42.358732">
 		<name>МН-09.08</name>
 	</wpt>
 	<wpt lat="43.372488" lon="42.348690">
 		<name>MN-10.08</name>
 	</wpt>
-	<wpt lat="43.349306" lon="42.312641">
-		<name>МН-11.08</name>
+	<wpt lat="43.366358" lon="42.348690">
+		<name>MN-10.08</name>
+	</wpt>
+	<wpt lat="43.349306" lon="42.351522">
+		<name>PER KOLTSEVOI (3353)</name>
+	</wpt>
+	<wpt lat="43.365472" lon="42.366956">
+		<name>PER LET MASHKOVA (3500)</name>
 	</wpt>
 	<wpt lat="43.325927" lon="42.268181">
 		<name>МН-12.08</name>
