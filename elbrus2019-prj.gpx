@@ -37,7 +37,7 @@
 		<name>MN-11.08</name>
 	</wpt>
 	<wpt lat="43.346226" lon="42.298186">
-		<name>PER TESHIKAUSH (3100)</name>
+		<name>PER TESHIKAUSH (3412)</name>
 	</wpt>
 	<wpt lat="43.325927" lon="42.268181">
 		<name>МН-12.08</name>
@@ -56,9 +56,6 @@
 	</wpt>
 	<wpt lat="43.276466" lon="42.428928">
 		<name>PER ECHO VOINY (3349)</name>
-	</wpt>
-	<wpt lat="43.335916" lon="42.335300">
-		<name>015</name>
 	</wpt>
 	<wpt lat="43.345592" lon="42.750270">
 		<name>MN-03.08-PESSIM (2000)</name>
