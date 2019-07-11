@@ -30,11 +30,8 @@
 	<wpt lat="43.372488" lon="42.348690">
 		<name>MN-10.08</name>
 	</wpt>
-	<wpt lat="43.369733" lon="42.351522">
-		<name>PER KOLTSEVOI (3353)</name>
-	</wpt>
-	<wpt lat="43.366358" lon="42.360172">
-		<name>PER KOLTSEVOI TUR</name>
+	<wpt lat="43.366358" lon="42.351522">
+		<name>PER KOLTSEVOI (3353), tur</name>
 	</wpt>
 	<wpt lat="43.365472" lon="42.366956">
 		<name>PER LET MASHKOVA (3500)</name>
