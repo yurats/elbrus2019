@@ -42,26 +42,20 @@
 	<wpt lat="43.346226" lon="42.298186">
 		<name>PER TESHIKAUSH (3412)</name>
 	</wpt>
-	<wpt lat="43.325927" lon="42.268181">
-		<name>МН-12.08</name>
-	</wpt>
-	<wpt lat="43.298448" lon="42.332382">
-		<name>МН-13.08</name>
+	<wpt lat="43.297170" lon="42.321314">
+		<name>MN-12.08 evz2017</name>
 	</wpt>
 	<wpt lat="43.30344" lon="42.37787">
-		<name>MN 13.08 probably</name>
-	</wpt>
-	<wpt lat="43.298385" lon="42.390060">
-		<name>МН-14.08</name>
-	</wpt>
-	<wpt lat="43.297170" lon="42.321314">
-		<name>MN EVZ PERED KHOTYUTAU</name>
+		<name>MN-13.08</name>
 	</wpt>
 	<wpt lat="43.296650" lon="42.400333">
 		<name>PER HOTYUTAU (3546)</name>
 	</wpt>
+	<wpt lat="43.299647" lon="42.400100">
+		<name>MN EVZ na hotyutau</name>
+	</wpt>
 	<wpt lat="43.277330" lon="42.426796">
-		<name>МН-15.08</name>
+		<name>МN-14.08</name>
 	</wpt>
 	<wpt lat="43.276466" lon="42.428928">
 		<name>PER ECHO VOINY (3349)</name>
