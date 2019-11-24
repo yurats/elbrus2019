@@ -14,50 +14,6 @@
           <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
         </extensions>
       </trkpt>
-      <trkpt lat="43.406278" lon="42.526176">
-        <ele>0</ele>
-        <time>2019-08-06T11:27:52.000Z</time>
-        <extensions>
-          <gpxdata:temp>14.3000001907349</gpxdata:temp>
-          <gpxdata:energy>1.20000004768372</gpxdata:energy>
-          <gpxdata:seaLevelPressure>1023</gpxdata:seaLevelPressure>
-          <gpxdata:speed>1.12723007728236</gpxdata:speed>
-          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
-        </extensions>
-      </trkpt>
-      <trkpt lat="43.406292" lon="42.526201">
-        <ele>0</ele>
-        <time>2019-08-06T11:27:54.000Z</time>
-        <extensions>
-          <gpxdata:temp>14.3000001907349</gpxdata:temp>
-          <gpxdata:energy>1.20000004768372</gpxdata:energy>
-          <gpxdata:seaLevelPressure>1023</gpxdata:seaLevelPressure>
-          <gpxdata:speed>1.1507042612828</gpxdata:speed>
-          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
-        </extensions>
-      </trkpt>
-      <trkpt lat="43.406304" lon="42.526229">
-        <ele>0</ele>
-        <time>2019-08-06T11:27:56.000Z</time>
-        <extensions>
-          <gpxdata:temp>14.3000001907349</gpxdata:temp>
-          <gpxdata:energy>1.20000004768372</gpxdata:energy>
-          <gpxdata:seaLevelPressure>1023</gpxdata:seaLevelPressure>
-          <gpxdata:speed>1.17417844528324</gpxdata:speed>
-          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
-        </extensions>
-      </trkpt>
-      <trkpt lat="43.406313" lon="42.526254">
-        <ele>0</ele>
-        <time>2019-08-06T11:27:58.000Z</time>
-        <extensions>
-          <gpxdata:temp>14.3000001907349</gpxdata:temp>
-          <gpxdata:energy>1.20000004768372</gpxdata:energy>
-          <gpxdata:seaLevelPressure>1023</gpxdata:seaLevelPressure>
-          <gpxdata:speed>1.19765262928367</gpxdata:speed>
-          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
-        </extensions>
-      </trkpt>
       <trkpt lat="43.406324" lon="42.526284">
         <ele>3006</ele>
         <time>2019-08-06T11:28:00.000Z</time>
