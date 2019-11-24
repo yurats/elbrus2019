@@ -13,46 +13,6 @@
           <gpxdata:verticalSpeed>-0.129999995231628</gpxdata:verticalSpeed>
         </extensions>
       </trkpt>
-      <trkpt lat="43.434212" lon="42.528586">
-        <ele>0</ele>
-        <time>2019-08-07T07:06:53.000Z</time>
-        <extensions>
-          <gpxdata:temp>28.3162354677489</gpxdata:temp>
-          <gpxdata:seaLevelPressure>1023</gpxdata:seaLevelPressure>
-          <gpxdata:speed>1.10000002384186</gpxdata:speed>
-          <gpxdata:verticalSpeed>-0.134870846050852</gpxdata:verticalSpeed>
-        </extensions>
-      </trkpt>
-      <trkpt lat="43.43422" lon="42.528558">
-        <ele>0</ele>
-        <time>2019-08-07T07:06:55.000Z</time>
-        <extensions>
-          <gpxdata:temp>28.3408358172766</gpxdata:temp>
-          <gpxdata:seaLevelPressure>1023</gpxdata:seaLevelPressure>
-          <gpxdata:speed>1.10000002384186</gpxdata:speed>
-          <gpxdata:verticalSpeed>-0.142250923049675</gpxdata:verticalSpeed>
-        </extensions>
-      </trkpt>
-      <trkpt lat="43.434223" lon="42.528533">
-        <ele>0</ele>
-        <time>2019-08-07T07:06:57.000Z</time>
-        <extensions>
-          <gpxdata:temp>28.3654361668044</gpxdata:temp>
-          <gpxdata:seaLevelPressure>1023</gpxdata:seaLevelPressure>
-          <gpxdata:speed>1.10000002384186</gpxdata:speed>
-          <gpxdata:verticalSpeed>-0.149631000048498</gpxdata:verticalSpeed>
-        </extensions>
-      </trkpt>
-      <trkpt lat="43.434234" lon="42.528502">
-        <ele>0</ele>
-        <time>2019-08-07T07:06:59.000Z</time>
-        <extensions>
-          <gpxdata:temp>28.3900365163321</gpxdata:temp>
-          <gpxdata:seaLevelPressure>1023</gpxdata:seaLevelPressure>
-          <gpxdata:speed>1.10000002384186</gpxdata:speed>
-          <gpxdata:verticalSpeed>-0.157011077047321</gpxdata:verticalSpeed>
-        </extensions>
-      </trkpt>
       <trkpt lat="43.434242" lon="42.528469">
         <ele>2553.88424093385</ele>
         <time>2019-08-07T07:07:01.000Z</time>

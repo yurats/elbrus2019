@@ -13,16 +13,6 @@
           <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
         </extensions>
       </trkpt>
-      <trkpt lat="43.298134" lon="42.333538">
-        <ele>0</ele>
-        <time>2019-08-13T10:45:48.000Z</time>
-        <extensions>
-          <gpxdata:temp>26.8272168272666</gpxdata:temp>
-          <gpxdata:seaLevelPressure>1022</gpxdata:seaLevelPressure>
-          <gpxdata:speed>1.20000004768372</gpxdata:speed>
-          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
-        </extensions>
-      </trkpt>
       <trkpt lat="43.298116" lon="42.333573">
         <ele>2243</ele>
         <time>2019-08-13T10:46:06.000Z</time>
