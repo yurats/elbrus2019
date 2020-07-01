@@ -1,16 +1,29 @@
 #VIKING GPS Data file http://viking.sf.net/
 FILE_VERSION=1
 
-xmpp=16,000000
-ympp=16,000000
-lat=43,340282
-lon=42,734733
+xmpp=4,000000
+ympp=4,000000
+lat=43,288604
+lon=42,436718
 mode=mercator
 color=#cccccc
 highlightcolor=#eea500
 drawscale=t
 drawcentermark=t
 drawhighlight=t
+
+~Layer Map
+name=Default Map
+mode=19
+directory=
+cache_type=1
+mapfile=
+alpha=255
+autodownload=t
+adlonlymissing=f
+mapzoom=0
+~EndLayer
+
 
 ~Layer Map
 name=Default Map
@@ -13508,8 +13521,8 @@ metadatakeywords=
 
 ~LayerData
 type="waypointlist"
-type="waypoint" latitude="43.274258000000003" longitude="42.460408000000001" name="КАНАТКА" altitude="2944.4958499999998" unixtime="1565944326" symbol="flag, blue"
-type="waypoint" latitude="43.258600000000001" longitude="42.504300000000001" name="008" altitude="2181.2070309999999" unixtime="1565953680" symbol="flag, blue"
+type="waypoint" latitude="43.274258000000003" longitude="42.460408000000001" name="КРУГОЗОР" altitude="2944.4958499999998" unixtime="1565944326" symbol="flag, blue"
+type="waypoint" latitude="43.258600000000001" longitude="42.504300000000001" name="КЕМПИНГ" altitude="2181.2070309999999" unixtime="1565953680" symbol="flag, blue"
 type="waypointlistend"
 ~EndLayerData
 ~EndLayer
@@ -13560,7 +13573,7 @@ metadatakeywords=
 
 ~LayerData
 type="waypointlist"
-type="waypoint" latitude="43.284545999999999" longitude="42.445945999999999" name="НОЧЬОЗЕРО" altitude="3279.876221" unixtime="1565881385" symbol="flag, blue"
+type="waypoint" latitude="43.284545999999999" longitude="42.445945999999999" name="МН-15.08" altitude="3279.876221" unixtime="1565881385" symbol="flag, blue"
 type="waypointlistend"
 ~EndLayerData
 ~EndLayer
@@ -13611,8 +13624,8 @@ metadatakeywords=
 
 ~LayerData
 type="waypointlist"
-type="waypoint" latitude="43.296644000000001" longitude="42.400374999999997" name="ПЕР. ХОТЮТАУ (3546)" altitude="3491.2109380000002" unixtime="1565773230" symbol="flag, blue"
 type="waypoint" latitude="43.289096999999998" longitude="42.407029000000001" name="МН-14.08" altitude="3355.232422" unixtime="1565780307" symbol="flag, blue"
+type="waypoint" latitude="43.296644000000001" longitude="42.400374999999997" name="ПЕР. ХОТЮТАУ (3546)" altitude="3491.2109380000002" unixtime="1565773230" symbol="flag, blue"
 type="waypointlistend"
 ~EndLayerData
 ~EndLayer
@@ -14081,11 +14094,11 @@ metadatakeywords=
 
 ~LayerData
 type="waypointlist"
-type="waypoint" latitude="43.353371000000003" longitude="42.560737000000003" name="ПЕР. ДЖИКАУГЕНКЕЗ (3546)" altitude="3562.1345209999999" unixtime="1565007010" symbol="flag, blue"
-type="waypoint" latitude="43.360477000000003" longitude="42.552894999999999" name="МН-05.08" altitude="3335.4086910000001" unixtime="1565011585" symbol="flag, blue"
 type="waypoint" latitude="43.360039" longitude="42.609684999999999" name="БРОД-СУБАШИ" altitude="2817.1608890000002" unixtime="1564984782" symbol="flag, blue"
 type="waypoint" latitude="43.349212999999999" longitude="42.573359000000004" name="ОБЕД-05.08" altitude="3238.2414549999999" unixtime="1564996823" symbol="flag, blue"
 type="waypoint" latitude="43.353586" longitude="42.563479000000001" name="НЕДОПЕРЕВАЛ" altitude="3545.6994629999999" unixtime="1565005237" symbol="flag, blue"
+type="waypoint" latitude="43.353371000000003" longitude="42.560737000000003" name="ПЕР. ДЖИКАУГЕНКЕЗ (3546)" altitude="3562.1345209999999" unixtime="1565007010" symbol="flag, blue"
+type="waypoint" latitude="43.360477000000003" longitude="42.552894999999999" name="МН-05.08" altitude="3335.4086910000001" unixtime="1565011585" symbol="flag, blue"
 type="waypointlistend"
 ~EndLayerData
 ~EndLayer
@@ -14189,8 +14202,8 @@ metadatakeywords=
 
 ~LayerData
 type="waypointlist"
-type="waypoint" latitude="43.344206" longitude="42.749262000000002" name="МН-03.08" altitude="1983.2727050000001" unixtime="1564846545" symbol="flag, blue"
 type="waypoint" latitude="43.311343000000001" longitude="42.751690000000004" name="СТАРТ" altitude="1546.468018" unixtime="1564834146" symbol="flag, blue"
+type="waypoint" latitude="43.344206" longitude="42.749262000000002" name="МН-03.08" altitude="1983.2727050000001" unixtime="1564846545" symbol="flag, blue"
 type="waypointlistend"
 ~EndLayerData
 ~EndLayer
